@@ -1,0 +1,26 @@
+_repo: Outdoor-Cooking-with-Reynolds-Wrap-How-to-prepare-tastier-campfire-meals-without-pots-pans-an__62832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reynolds Metals Company
+    gutenberg_agent_id: '52074'
+    url: http://www.gutenberg.org/2009/agents/52074
+    wikipedia: https://en.wikipedia.org/wiki/Reynolds_Group_Holdings
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aluminum foil'
+- !lcc 'TX'
+- !lcsh 'Outdoor cooking'
+- GITenberg
+title: 'Outdoor Cooking with Reynolds Wrap
+
+  How to prepare tastier campfire meals without pots, pans and dishes'
+url: http://www.gutenberg.org/ebooks/62832
